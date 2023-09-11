@@ -1,0 +1,54 @@
+{
+  "identifier" : "A3519243",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6449723936",
+    "_developerTeamID" : "F2HZNSPT52",
+    "_lastSynchronizedDate" : 707780549.82816005
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21349445",
+      "localizations" : [
+
+      ],
+      "name" : "Reelhub",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6449985199",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Full Access",
+              "displayName" : "All Access",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "reelhub_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly",
+          "subscriptionGroupID" : "21349445",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

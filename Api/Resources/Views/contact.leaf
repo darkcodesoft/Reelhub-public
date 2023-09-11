@@ -1,0 +1,16 @@
+#extend("main"):
+    #export("content"):
+        <h2>Contact Us</h2>
+        <p class="message">Reelhub is a groundbreaking entertainment app 
+            designed to bring you the very best in movies and TV shows, 
+            all in one place. With an extensive collection spanning across 
+            multiple streaming services, Reelhub is your go-to destination 
+            for discovering, recommending, and searching for captivating 
+            content tailored to your unique tastes.
+            <br/>
+        </p>
+        <p>
+        Contact us through the app or email us at <a href="mailto:help@reelhub.app">help@reelhub.app</a>.
+        </p>
+    #endexport
+#endextend

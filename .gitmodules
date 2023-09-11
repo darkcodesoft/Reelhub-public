@@ -1,0 +1,3 @@
+[submodule "reelhub-api"]
+	path = reelhub-api
+	url = https://github.com/darkcodesoft/reelhub-api.git

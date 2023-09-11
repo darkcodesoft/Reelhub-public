@@ -1,0 +1,92 @@
+#extend("main"):
+    #export("styles"):
+        <link rel="stylesheet" type="text/css" href="/styles/home.css" />
+    #endexport
+    #export("content"):
+       <div class="container">
+            <div class="item">
+                <img class="cover-art" src="images/freeridge.png" alt="freeridge" width="500" height="1015">
+            </div>
+            <div class="item item-text">
+                <p class="message">Reelhub is a groundbreaking entertainment app 
+                    designed to bring you the very best in movies and TV shows, 
+                    all in one place. With a curated collection spanning across 
+                    multiple streaming services, Reelhub is your go-to destination 
+                    for discovering, recommending, and searching for captivating 
+                    content tailored to your unique tastes.
+                    <br/>
+                    <br/>
+                    <a target="_blank" href="https://apps.apple.com/us/app/reelhub/id6449723936"><img src="/images/appStore.svg" alt="appStore"></a>
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="item item-text">
+                <h3 class="heading">Unified Streaming Service Integration</h3>
+                <p class="message">Unleash the true power of convenience with Reelhub's seamless 
+                    integration of all major streaming platforms. No longer will you 
+                    need to switch between multiple apps or juggle subscriptions. Reelhub 
+                    brings together popular streaming services like Apple TV+, Netflix, 
+                    Amazon Prime Video, Hulu, Disney+, and more, allowing you to browse, 
+                    discover, and access an extensive library of content from a single, 
+                    user-friendly interface. Streamlining your entertainment experience 
+                    has never been easier.
+                    <br/>
+                    <br/>
+                    <a target="_blank" href="https://apps.apple.com/us/app/reelhub/id6449723936"><img src="/images/appStore.svg" alt="appStore"></a>
+                </p>
+            </div>
+            <div class="item">
+                <img class="cover-art" src="images/browse.png" alt="browse" width="500" height="1015">
+            </div>
+        </div>
+        <div class="container">
+            <div class="item">
+                <img class="cover-art" src="images/finder.png" alt="finder" width="500" height="1015">
+            </div>
+            <div class="item item-text">
+                <h3 class="heading">AI Search</h3>
+                <p class="message">
+                    Looking for a specific movie or TV show? Reelhub's AI-powered search 
+                    feature, Finder, lets you quickly and effortlessly find exactly what 
+                    you're looking for. Simply enter the title, actor, or director or use 
+                    the AI filters and watch as Reelhub provides instant results across 
+                    multiple streaming services. Whether you're in the mood for a classic 
+                    film, a recent blockbuster, or a critically acclaimed TV series, 
+                    Reelhub is your gateway to a vast universe of entertainment options.
+                    <br/>
+                    <br/>
+                    <a target="_blank" href="https://apps.apple.com/us/app/reelhub/id6449723936"><img src="/images/appStore.svg" alt="appStore"></a>
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="item item-text">
+                <h3 class="heading">Your Entertainment, Your Way</h3>
+                <p class="message message-small">
+                    Reelhub believes in putting you in control of your entertainment journey. 
+                    Create personalized profiles for each member of your household, allowing Reelhub 
+                    to fine-tune its recommendations based on individual preferences. Whether 
+                    you're a film aficionado, a binge-watching enthusiast, or someone seeking something 
+                    new, Reelhub ensures that every click leads you closer to your next 
+                    unforgettable viewing experience.
+                </p>
+            </div>
+            <div class="item item-text">
+                <h3 class="heading">User-Friendly Interface</h3>
+                <p class="message message-small">
+                With Reelhub's sleek and intuitive design, navigating through its expansive 
+                catalog is a breeze. Enjoy a seamless browsing experience with visually appealing 
+                artwork, informative descriptions to help you make informed choices. Save your favorite 
+                movies and shows to curated playlists, share recommendations with friends, and stay up 
+                to date with the latest releases and upcoming releases with Reelhub's comprehensive 
+                notifications.
+                </p>
+            </div>
+        </div>
+        <p class="terms-text">
+            The app is free to use (subject to the standard application license agreement of the Apple App Store, as outlined below). However, you can also remove ads (with the exception of direct sale campaigns) and unlock in-app features such as saving, bookmarking, and AI-powered search and recommendations for just $3.99 USD per month.
+            <br/>
+        </p>
+    #endexport
+#endextend
